@@ -2,7 +2,7 @@
   "private": false,
   "name": "techsolutioner2016",
   "version": "1.0.0",
-  "homepage": "http://ethanw.github.io",
+  "homepage": "https://techsolutioner2016.github.io/ethanw/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
